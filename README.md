@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Hernan, a Game Developer and a technology enthusiast.<br>
+- [Website/Portfolio](https://hernan-perez.github.io/)
+- [Linkedin](https://www.linkedin.com/in/perez-hernan/)
+- [Twitter/X](https://twitter.com/hernanperez_dev)
 
 <!--
 **Hernan-Perez/Hernan-Perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
